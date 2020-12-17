@@ -1,0 +1,6 @@
+# Project exclude paths
+/authority_common/target/
+/authority_domain/target/
+/authority_mapper/target/
+/authority_service/target/
+/authority_web/target/
